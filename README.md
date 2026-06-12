@@ -58,9 +58,13 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 
 DCS World ships with two permanently free aircraft. Most paid modules also offer a 14-day free trial via the Module Manager.
 
+- [A-4E-C Skyhawk](https://github.com/Community-A-4E/community-a4e-c) — Community-built carrier-capable Skyhawk with clickable cockpit, custom flight model, and air-to-ground radar; free and open source
 - [Su-25T Frogfoot](https://www.digitalcombatsimulator.com/en/shop/modules/su-25t/) — Free ground-attack aircraft included with the base game; good first module for learning weapons employment
 - [TF-51D Mustang](https://www.digitalcombatsimulator.com/en/shop/modules/tf-51d/) — Free unarmed trainer based on the P-51D; recommended for learning basic flight and aerobatics
+- [VNAO T-45C Goshawk](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) — Free community naval jet trainer with clickable cockpit and carrier ops support; made by Virtual Naval Air Operations
 - [Free Trial System](https://www.digitalcombatsimulator.com/en/shop/modules/) — Most paid modules can be trialed for 14 days via the in-game Module Manager; no purchase required
+
+> Note: community aircraft mods (A-4E-C, T-45C) may not be available on multiplayer servers running strict integrity check.
 
 ---
 
@@ -286,6 +290,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ### Graphics Mods
 
+- [ATMOS-X](https://www.atx4dcs.com/) — Weather enhancement mod adding volumetric cloud presets and thunderstorm effects; free, integrity-check safe
 - [ReShade](https://reshade.me/) — Post-processing injector; SMAA, AO, color grading, sharpening
 - [Reshade VREM](https://github.com/lefufu/DCS-world-reshade-VREM) — DCS-specific sharpening addon for VR; integrity-check safe
 
