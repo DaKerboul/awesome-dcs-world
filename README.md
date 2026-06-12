@@ -268,6 +268,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 - [AITrack](https://github.com/AIRLegend/aitrack) — Webcam face tracker feeding OpenTrack via neural net; low CPU, no IR hardware needed
 - [Chuck's Guides — HOTAS Sections](https://chucksguides.com/) — Recommended HOTAS bindings for each module
+- [ControllerBuddy](https://controllerbuddy.org/) — Game controller mapping tool for flight sims; profiles for most DCS modules (★168)
 - [DelanClip](https://delanclip.com/) `[paid]` — Affordable IR LED head-tracking clip; works with OpenTrack and TrackIR software
 - [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR) — DIY open-source eye-tracking for VR headsets; ESP32 firmware + PC software
 - [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
