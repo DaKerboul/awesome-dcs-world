@@ -9,6 +9,7 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 ## Contents
 
 - [Getting Started](#getting-started)
+  - [Free Modules](#free-modules)
 - [Official Resources](#official-resources)
 - [Guides & Manuals](#guides--manuals)
 - [Scripting & Development](#scripting--development)
@@ -52,6 +53,14 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 - [Eagle Dynamics Discord](https://discord.gg/eagledynamics) — Official ED Discord for announcements and community chat
 - [Hoggit Discord](https://discord.gg/hoggit) — ~35k members; module help channels and weekly open multiplayer sessions
 - [Hoggit DCS World Wiki](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki) — The community wiki: aircraft systems, scripting, peripherals, multiplayer setup
+
+### Free Modules
+
+DCS World ships with two permanently free aircraft. Most paid modules also offer a 14-day free trial via the Module Manager.
+
+- [Su-25T Frogfoot](https://www.digitalcombatsimulator.com/en/shop/modules/su-25t/) — Free ground-attack aircraft included with the base game; good first module for learning weapons employment
+- [TF-51D Mustang](https://www.digitalcombatsimulator.com/en/shop/modules/tf-51d/) — Free unarmed trainer based on the P-51D; recommended for learning basic flight and aerobatics
+- [Free Trial System](https://www.digitalcombatsimulator.com/en/shop/modules/) — Most paid modules can be trialed for 14 days via the in-game Module Manager; no purchase required
 
 ---
 
