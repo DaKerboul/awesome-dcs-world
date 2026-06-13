@@ -115,7 +115,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCT — Dynamic Campaign Tools](https://github.com/jtoppins/dct) `[inactive]` — Lua framework for persistent server-side campaigns; scenarios built from templates, no external program needed
 - [DCT Documentation](https://jtoppins.github.io/dct/) — Full docs and quick-start for DCT
 - [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation) — Turn-based SP/co-op dynamic campaign generator: persistent front-line, IADS, JTAC, SEAD (★778)
-- [Pretense](https://github.com/Dzsek/pretense) `[inactive]` — In-mission sandbox: mercenary economy, AI logistics, XP progression, persistence
+- [Pretense](https://github.com/GoldJohnKing/pretense) `[inactive]` — In-mission sandbox: mercenary economy, AI logistics, XP progression, persistence
 - [Retribution](https://github.com/dcs-retribution/dcs-retribution) — Active Liberation fork; adds Splash Damage, CTLD, improved front-line mechanics (★158)
 
 ### Developer Tools
