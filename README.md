@@ -331,6 +331,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Bullseye Francophone](https://bullseye-francophone.fr/) — French-speaking DCS community: co-op flights, BFM/BVR tournaments, dedicated server
 - [Check-Six Forums](https://www.checksix-forums.com/) — Longstanding French sim forum with an active DCS section
 - [Check-Six.fr](https://www.checksix-fr.com/category/dcs-world/) — French DCS news: module tests, guides, community events
+- [Commus DCS FR](https://commus.kerboul.me) — French-language directory of DCS squadrons and communities; find your escadron
 - [Eagle Dynamics Discord](https://discord.gg/eagledynamics) — Official ED server for announcements and community discussion
 - [Hoggit Discord](https://discord.gg/hoggit) — ~35k members; help channels, module voice, weekly multiplayer sessions
 - [Mudspike Forums](https://forums.mudspike.com/) — Multi-sim community with DCS discussions, AARs, hardware threads
