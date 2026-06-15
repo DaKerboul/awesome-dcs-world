@@ -346,6 +346,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [High Digit SAMs](https://github.com/Auranis/HighDigitSAMs) — IC-compliant asset pack adding many modern and historic air-defence systems
 - [Infantry - Animated Pilot Mod](https://forum.dcs.world/topic/196334-infantry-unit-animated-pilot-mod) — Adds animated infantry and downed-pilot static and AI units
 - [Markindel's PBY Catalina](https://forum.dcs.world/topic/292737-markindels-pby-catalina-torpedo-bomber) — AI PBY Catalina torpedo bomber
+- [Markindel's USS Iowa](https://forum.dcs.world/topic/277762-markindels-uss-iowa-late-war-vietnamkorea) — AI USS Iowa-class battleship in late-war Vietnam/Korea fit
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
 =======
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
