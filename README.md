@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [SAM Sites Asset Pack](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases) — IC-compliant 3D assets to populate SAM sites, FARPs, and bases
 
 ### Weapon Mods
 
