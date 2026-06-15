@@ -294,6 +294,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ### Mod Management
 
+- [Open Mod Manager](https://github.com/sedenion/OpenModMan) — Open-source generic mod manager: install, toggle, and back up mods safely
 
 ### Skins & Liveries
 
