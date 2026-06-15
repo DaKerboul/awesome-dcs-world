@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [Markindel's USS Iowa](https://forum.dcs.world/topic/277762-markindels-uss-iowa-late-war-vietnamkorea) — AI USS Iowa-class battleship in late-war Vietnam/Korea fit
 
 ### Weapon Mods
 
