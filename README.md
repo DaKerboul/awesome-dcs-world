@@ -214,6 +214,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ### AI / ATC / IADS
 
+- [AI_ATC Nellis AFB](https://github.com/Avalanche110/AI_ATC_Nellis_AFB) — Script adding AI-controlled ATC and ground traffic to Nellis AFB
 - [DATIS](https://github.com/rkusa/DATIS) — Generates airfield and carrier ATIS broadcasts over SRS from in-mission weather (★100+)
 - [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.AirBoss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
 - [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.MANTIS.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
