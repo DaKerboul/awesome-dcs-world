@@ -211,6 +211,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ### AI / ATC / IADS
 
 - [DATIS](https://github.com/rkusa/DATIS) — Generates airfield and carrier ATIS broadcasts over SRS from in-mission weather (★100+)
+- [DCS AI REVAMP](https://forum.dcs.world/topic/383084-dcs-ai-revamp-a-dynamic-battlefield-and-advanced-ground-ai-system) `[WIP]` — Scripted dynamic battlefield with smarter, more reactive ground AI
 - [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.AirBoss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
 - [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.MANTIS.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) — The reference IADS script: EWR datalinks SAM sites, SAMs go cold on HARM detection, supports HighDigitSAMs (★218)
