@@ -322,6 +322,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Weapon Mods
 
+- [The Definitive AMRAAM Mod](https://www.digitalcombatsimulator.com/en/files/3350446) — Adds AIM-120C-5/C-7/D-3, AIM-174B, and AIM-260 to compatible aircraft
 
 ### Sound Mods
 
