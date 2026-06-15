@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [Ropucha-Class Landing Ship](https://forum.dcs.world/topic/199842-early-access-ropucha-class-soviet-landing-ship) `[WIP]` — AI Ropucha-class Soviet landing ship
 
 ### Weapon Mods
 
