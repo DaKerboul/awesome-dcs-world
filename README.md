@@ -271,6 +271,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [GV5Js Datacard Generator](https://forum.dcs.world/topic/261081-gv5js-datacard-generator) — Generates printable mission datacards as DCS kneeboard pages
 - [Kneeboard Builder](https://dcskneeboardbuilder.com/) — Converts PDFs to DCS kneeboard images; per-aircraft profile management
 - [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★334)
+- [Shark Planner](https://github.com/okopanja/SharkPlanner) — Companion app that enters waypoints into the Ka-50 ABRIS/PVI-800 and other nav systems
 - [SlipHavoc DCS-Kneeboards](https://github.com/SlipHavoc/DCS-Kneeboards) — Pre-made kneeboard set covering most popular modules
 
 ### VR
