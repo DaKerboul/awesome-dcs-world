@@ -322,6 +322,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Weapon Mods
 
+- [A2G/A2A Missile Tab](https://www.7heangryve7eran.com/dcs) `[WIP]` — Tweak that surfaces air-to-ground missiles in the air-to-air loadout tab
 
 ### Sound Mods
 
