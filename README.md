@@ -136,6 +136,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Lua Debug Adapter](https://github.com/applevangelist/DCS-Lua-Debugger) — VSCode debug adapter for Lua running inside DCS missions
 - [DCS Scratchpad](https://github.com/rkusa/dcs-scratchpad) — In-game scratchpad overlay for notes and coordinates (★200)
 - [Hoggit DCS SSE Wiki](https://wiki.hoggitworld.com/view/Simulator_Scripting_Engine_Documentation) — Reference for the in-game Lua scripting environment: functions, classes, callbacks
+- [Quaggles DCS Input Command Injector](https://github.com/Quaggles/dcs-input-command-injector) — Adds custom per-aircraft keybinds that survive updates without editing default input Lua
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) — EWR stations datalink SAM sites; SAMs go cold on HARM detection (★218)
 - [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot with voice recognition and neural TTS; runs over SRS and DCS-gRPC (★400+)
 - [Tacview ACMI SDK](https://www.tacview.net/documentation/acmi/en/) — ACMI format spec and SDK for building Tacview-compatible exporters
