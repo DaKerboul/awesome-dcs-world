@@ -323,6 +323,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ### Graphics Mods
 
 - [ATMOS-X](https://www.atx4dcs.com/) — Weather enhancement mod adding volumetric cloud presets and thunderstorm effects; free, integrity-check safe
+- [Custom NVGs via ReShade](https://flightsim.to/file/14860/night-vision-goggles) — ReShade preset for more realistic night-vision goggle rendering; integrity-check safe
 - [ReShade](https://reshade.me/) — Post-processing injector; SMAA, AO, color grading, sharpening
 - [Reshade VREM](https://github.com/lefufu/DCS-world-reshade-VREM) — DCS-specific sharpening addon for VR; integrity-check safe
 
