@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [Markindel's PBY Catalina](https://forum.dcs.world/topic/292737-markindels-pby-catalina-torpedo-bomber) — AI PBY Catalina torpedo bomber
 
 ### Weapon Mods
 
