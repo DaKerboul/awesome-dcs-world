@@ -341,7 +341,6 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
-<<<<<<< add-wwii-axis-naval-assets
 - [Complete Modern Chinese Military Mod](https://github.com/liwenHAO5105/DCS) — Collected modern Chinese aircraft, vehicle, and ship asset packs in one place
 - [High Digit SAMs](https://github.com/Auranis/HighDigitSAMs) — IC-compliant asset pack adding many modern and historic air-defence systems
 - [Infantry - Animated Pilot Mod](https://forum.dcs.world/topic/196334-infantry-unit-animated-pilot-mod) — Adds animated infantry and downed-pilot static and AI units
@@ -350,27 +349,16 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [Ropucha-Class Landing Ship](https://forum.dcs.world/topic/199842-early-access-ropucha-class-soviet-landing-ship) `[WIP]` — AI Ropucha-class Soviet landing ship
 - [SAM Sites Asset Pack](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases) — IC-compliant 3D assets to populate SAM sites, FARPs, and bases
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
-- [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
-=======
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
-- [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
->>>>>>> main
 
 ### Weapon Mods
 
-<<<<<<< add-a2g-a2a-missile-tab
 - [A2G/A2A Missile Tab](https://www.7heangryve7eran.com/dcs) `[WIP]` — Tweak that surfaces air-to-ground missiles in the air-to-air loadout tab
-- [A2G/A2A Missile Tab](https://www.7heangryve7eran.com/dcs) `[WIP]` — Tweak that surfaces air-to-ground missiles in the air-to-air loadout tab
-=======
-- [EU+US Weapons for JF-17](https://www.digitalcombatsimulator.com/en/files/3345045) — Non-authentic fun mod adding EU and US weapons to the JF-17
 - [EU+US Weapons for JF-17](https://www.digitalcombatsimulator.com/en/files/3345045) — Non-authentic fun mod adding EU and US weapons to the JF-17
 - [The Definitive AMRAAM Mod](https://www.digitalcombatsimulator.com/en/files/3350446) — Adds AIM-120C-5/C-7/D-3, AIM-174B, and AIM-260 to compatible aircraft
-- [The Definitive AMRAAM Mod](https://www.digitalcombatsimulator.com/en/files/3350446) — Adds AIM-120C-5/C-7/D-3, AIM-174B, and AIM-260 to compatible aircraft
->>>>>>> main
 
 ### Sound Mods
 
-- [Skullz Genuine Huey Sound Mod](https://forum.dcs.world/topic/134264-skullz-genuine-huey-sound-mod) — Realistic UH-1H Huey engine and rotor sound replacement
 - [Skullz Genuine Huey Sound Mod](https://forum.dcs.world/topic/134264-skullz-genuine-huey-sound-mod) — Realistic UH-1H Huey engine and rotor sound replacement
 
 ---
