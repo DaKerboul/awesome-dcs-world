@@ -350,6 +350,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [Ropucha-Class Landing Ship](https://forum.dcs.world/topic/199842-early-access-ropucha-class-soviet-landing-ship) `[WIP]` — AI Ropucha-class Soviet landing ship
 - [SAM Sites Asset Pack](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases) — IC-compliant 3D assets to populate SAM sites, FARPs, and bases
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
+- [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
 =======
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
 >>>>>>> main
