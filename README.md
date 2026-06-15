@@ -342,6 +342,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 ### Asset & Unit Packs
 
 <<<<<<< add-wwii-axis-naval-assets
+- [Complete Modern Chinese Military Mod](https://github.com/liwenHAO5105/DCS) — Collected modern Chinese aircraft, vehicle, and ship asset packs in one place
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
 =======
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
