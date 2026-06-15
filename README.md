@@ -140,6 +140,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) — EWR stations datalink SAM sites; SAMs go cold on HARM detection (★218)
 - [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot with voice recognition and neural TTS; runs over SRS and DCS-gRPC (★400+)
 - [Tacview ACMI SDK](https://www.tacview.net/documentation/acmi/en/) — ACMI format spec and SDK for building Tacview-compatible exporters
+- [Twitch2DCS](https://github.com/rthom91/twitch2dcs) — Shows Twitch chat inside DCS so VR streamers can read it without removing the headset
 
 ---
 
