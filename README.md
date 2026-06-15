@@ -257,6 +257,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Capt Zeen Helios Profiles](http://www.captzeen.com/helios/profiles.asp) — Large library of Helios profiles with monitor configurations for many aircraft
 - [DCS-ExportScripts](https://github.com/s-d-a/DCS-ExportScripts) — Export cockpit data to external displays, apps, and Ikarus gauges
 - [DCS Interface for StreamDeck](https://github.com/charlestytler/streamdeck-dcs-interface) — Stream Deck plugin with DCS cockpit event bindings and state-driven button images
+- [DCS:The Way](https://github.com/aronCiucu/DCSTheWay) — Companion app that pushes F10-map markpoints into the aircraft as steerpoints
 - [Digital Kneeboard Simulator](https://www.digitalkneeboardsimulator.com/) — Web app for flight plans, loadouts, comm cards, and kneeboard export
 - [Kneeboard Builder](https://dcskneeboardbuilder.com/) — Converts PDFs to DCS kneeboard images; per-aircraft profile management
 - [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★334)
