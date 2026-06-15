@@ -335,6 +335,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Aircraft Mods
 
+- [F-15C Cockpit Overhaul](https://forum.dcs.world/topic/316347-f-15c-cockpit-overhaul-hotfix-23022024) — Retextured F-15C cockpit with fixed instrument illumination
 
 ### Asset & Unit Packs
 
