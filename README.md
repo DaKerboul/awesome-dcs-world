@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [High Digit SAMs](https://github.com/Auranis/HighDigitSAMs) — IC-compliant asset pack adding many modern and historic air-defence systems
 
 ### Weapon Mods
 
