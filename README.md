@@ -19,6 +19,7 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
   - [Developer Tools](#developer-tools)
 - [Mission Design](#mission-design)
   - [Mission Generators](#mission-generators)
+  - [Planning Tools](#planning-tools)
   - [Training Missions](#training-missions)
   - [Third-Party Campaigns](#third-party-campaigns)
 - [Flight Analysis & Debriefing](#flight-analysis--debriefing)
@@ -34,8 +35,14 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
   - [VR](#vr)
   - [Peripherals](#peripherals)
 - [Customization](#customization)
+  - [Mod Management](#mod-management)
   - [Skins & Liveries](#skins--liveries)
   - [Graphics Mods](#graphics-mods)
+- [Aircraft & Content Mods](#aircraft--content-mods)
+  - [Aircraft Mods](#aircraft-mods)
+  - [Asset & Unit Packs](#asset--unit-packs)
+  - [Weapon Mods](#weapon-mods)
+  - [Sound Mods](#sound-mods)
 - [Module-Specific Resources](#module-specific-resources)
 - [Communities & Events](#communities--events)
   - [Communities](#communities)
@@ -144,6 +151,9 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Real Weather](https://github.com/evogelsa/dcs-real-weather) — Fetches a live METAR and patches the weather block in a `.miz` before server restart (★32)
 - [DCS WeatherInjector](https://github.com/destotelhorus/DCS-WeatherInjector) — CLI/scheduled METAR and datetime injection for dedicated servers
 - [VEAF Mission Converter](https://github.com/VEAF/VEAF-mission-converter) — Unpacks a `.miz` into a versionable folder, edit, then rebuild with VEAF scripts injected
+
+### Planning Tools
+
 
 ### Training Missions
 
@@ -282,6 +292,9 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ## Customization
 
+### Mod Management
+
+
 ### Skins & Liveries
 
 - [AMD Compressonator](https://github.com/GPUOpen-Tools/Compressonator) — Standalone DDS conversion and compression toolbox
@@ -294,6 +307,24 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [ATMOS-X](https://www.atx4dcs.com/) — Weather enhancement mod adding volumetric cloud presets and thunderstorm effects; free, integrity-check safe
 - [ReShade](https://reshade.me/) — Post-processing injector; SMAA, AO, color grading, sharpening
 - [Reshade VREM](https://github.com/lefufu/DCS-world-reshade-VREM) — DCS-specific sharpening addon for VR; integrity-check safe
+
+---
+
+## Aircraft & Content Mods
+
+Community content mods (flyable aircraft, AI units, weapons, sounds). For mods whose download is a direct file host (Google Drive, MEGA, Dropbox), the link points to the ED forum thread for context.
+
+### Aircraft Mods
+
+
+### Asset & Unit Packs
+
+
+### Weapon Mods
+
+
+### Sound Mods
+
 
 ---
 
