@@ -178,6 +178,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ## Flight Analysis & Debriefing
 
+- [Logbook](http://logbook.ansirial.it) — Automatically records single- and multiplayer flight history and career progress
 - [SRS Recorder](https://github.com/wrycu/srs_recorder) — Records SRS radio transmissions timestamped alongside Tacview playback; requires DCS-gRPC
 - [Tacview](https://www.tacview.net/) `[free-tier]` — 3D flight debrief tool; records to `.acmi`, shows radar picture, kill chains, telemetry
 - [Tacview — DCS Integration Guide](https://www.tacview.net/documentation/dcs/) — How to enable the built-in Tacview recorder in DCS
