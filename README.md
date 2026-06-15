@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
 
 ### Weapon Mods
 
