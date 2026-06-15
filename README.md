@@ -284,6 +284,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
 - [Joystick Diagrams](https://joystick-diagrams.com/) — Generates printable layout diagrams from your DCS bindings
 - [OpenTrack](https://github.com/opentrack/opentrack) — Free head-tracking software; supports FaceTrackNoIR, Aruco, IR clip, FreeTrack output (★3,000+)
+- [RS Mapper](https://forum.dcs.world/topic/175248-rs-mapper-release) `[inactive]` — Maps advanced HOTAS modes and shift states that DCS does not expose natively
 - [VIRPIL Controls](https://virpil-controls.eu/) `[paid]` — Modular HOTAS and collective controllers widely used in the DCS community
 - [VKB Sim](https://vkbcontrollers.com/) `[paid]` — HOTAS sticks (Gunfighter, Gladiator) with precision sensors
 - [Winwing](https://en.winwingsim.com/) `[paid]` — Module-specific panel replicas: F/A-18C, F-16C CDU, AH-64D EUFD
