@@ -260,6 +260,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Digital Kneeboard Simulator](https://www.digitalkneeboardsimulator.com/) — Web app for flight plans, loadouts, comm cards, and kneeboard export
 - [Kneeboard Builder](https://dcskneeboardbuilder.com/) — Converts PDFs to DCS kneeboard images; per-aircraft profile management
 - [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★334)
+- [Simtools.app](https://www.simtools.app) — Web app to build and download custom aircraft checklists and kneeboards
 - [SlipHavoc DCS-Kneeboards](https://github.com/SlipHavoc/DCS-Kneeboards) — Pre-made kneeboard set covering most popular modules
 
 ### VR
