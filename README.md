@@ -319,13 +319,24 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+<<<<<<< add-wwii-axis-naval-assets
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
+=======
+- [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
+>>>>>>> main
 
 ### Weapon Mods
 
+<<<<<<< add-a2g-a2a-missile-tab
+- [A2G/A2A Missile Tab](https://www.7heangryve7eran.com/dcs) `[WIP]` — Tweak that surfaces air-to-ground missiles in the air-to-air loadout tab
+=======
+- [EU+US Weapons for JF-17](https://www.digitalcombatsimulator.com/en/files/3345045) — Non-authentic fun mod adding EU and US weapons to the JF-17
+- [The Definitive AMRAAM Mod](https://www.digitalcombatsimulator.com/en/files/3350446) — Adds AIM-120C-5/C-7/D-3, AIM-174B, and AIM-260 to compatible aircraft
+>>>>>>> main
 
 ### Sound Mods
 
+- [Skullz Genuine Huey Sound Mod](https://forum.dcs.world/topic/134264-skullz-genuine-huey-sound-mod) — Realistic UH-1H Huey engine and rotor sound replacement
 
 ---
 
