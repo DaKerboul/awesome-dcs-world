@@ -323,9 +323,11 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 ### Weapon Mods
 
 - [EU+US Weapons for JF-17](https://www.digitalcombatsimulator.com/en/files/3345045) — Non-authentic fun mod adding EU and US weapons to the JF-17
+- [The Definitive AMRAAM Mod](https://www.digitalcombatsimulator.com/en/files/3350446) — Adds AIM-120C-5/C-7/D-3, AIM-174B, and AIM-260 to compatible aircraft
 
 ### Sound Mods
 
+- [Skullz Genuine Huey Sound Mod](https://forum.dcs.world/topic/134264-skullz-genuine-huey-sound-mod) — Realistic UH-1H Huey engine and rotor sound replacement
 
 ---
 
