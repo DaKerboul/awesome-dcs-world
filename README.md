@@ -337,6 +337,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 - [F-15C Cockpit Overhaul](https://forum.dcs.world/topic/316347-f-15c-cockpit-overhaul-hotfix-23022024) — Retextured F-15C cockpit with fixed instrument illumination
 - [The Concorde](https://forum.dcs.world/topic/326601-the-concorde) — Free flyable Concorde mod; OvGME and Saved Games ready
+- [VSN EA-6B Prowler](https://forum.dcs.world/topic/256589-vsn-northrop-grumman-ea-6b-prowler) — Flyable VSN Northrop Grumman EA-6B Prowler mod
 
 ### Asset & Unit Packs
 
