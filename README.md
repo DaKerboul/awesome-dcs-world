@@ -301,6 +301,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [ED Livery Search](https://www.digitalcombatsimulator.com/en/files/filter/type-is-livery/apply/) — Community livery search by aircraft on the official site
 - [Hoggit Wiki — Liveries](https://wiki.hoggitworld.com/view/Liveries) — DCS livery folder structure, `description.lua`, and paint kit guide
 - [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter) — DDS export and normal-map generation for Photoshop or standalone
+- [VAT Skyline Updater](https://forum.dcs.world/topic/282485-vat-skyline-updater) `[WIP]` — Keeps the VAT Skyline livery pack updated to the latest community versions
 
 ### Graphics Mods
 
