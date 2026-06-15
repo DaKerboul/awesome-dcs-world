@@ -268,6 +268,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Interface for StreamDeck](https://github.com/charlestytler/streamdeck-dcs-interface) — Stream Deck plugin with DCS cockpit event bindings and state-driven button images
 - [DCS:The Way](https://github.com/aronCiucu/DCSTheWay) — Companion app that pushes F10-map markpoints into the aircraft as steerpoints
 - [Digital Kneeboard Simulator](https://www.digitalkneeboardsimulator.com/) — Web app for flight plans, loadouts, comm cards, and kneeboard export
+- [GV5Js Datacard Generator](https://forum.dcs.world/topic/261081-gv5js-datacard-generator) — Generates printable mission datacards as DCS kneeboard pages
 - [Kneeboard Builder](https://dcskneeboardbuilder.com/) — Converts PDFs to DCS kneeboard images; per-aircraft profile management
 - [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★334)
 - [SlipHavoc DCS-Kneeboards](https://github.com/SlipHavoc/DCS-Kneeboards) — Pre-made kneeboard set covering most popular modules
