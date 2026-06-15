@@ -344,6 +344,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 <<<<<<< add-wwii-axis-naval-assets
 - [Complete Modern Chinese Military Mod](https://github.com/liwenHAO5105/DCS) — Collected modern Chinese aircraft, vehicle, and ship asset packs in one place
 - [High Digit SAMs](https://github.com/Auranis/HighDigitSAMs) — IC-compliant asset pack adding many modern and historic air-defence systems
+- [Infantry - Animated Pilot Mod](https://forum.dcs.world/topic/196334-infantry-unit-animated-pilot-mod) — Adds animated infantry and downed-pilot static and AI units
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
 =======
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
