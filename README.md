@@ -316,6 +316,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Aircraft Mods
 
+- [VSN EA-6B Prowler](https://forum.dcs.world/topic/256589-vsn-northrop-grumman-ea-6b-prowler) — Flyable VSN Northrop Grumman EA-6B Prowler mod
 
 ### Asset & Unit Packs
 
