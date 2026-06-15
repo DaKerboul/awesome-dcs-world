@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [Complete Modern Chinese Military Mod](https://github.com/liwenHAO5105/DCS) — Collected modern Chinese aircraft, vehicle, and ship asset packs in one place
 
 ### Weapon Mods
 
