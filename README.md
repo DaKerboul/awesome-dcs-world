@@ -261,6 +261,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ### Kneeboard & Overlays
 
 - [Capt Zeen Helios Profiles](http://www.captzeen.com/helios/profiles.asp) — Large library of Helios profiles with monitor configurations for many aircraft
+- [DCS Kneeboard (iOS & Android)](https://forum.dcs.world/topic/256088-dcs-kneeboard-ios-android-app) — iOS and Android kneeboard app for flight plans, charts, and checklists
 - [DCS Moving Map](https://movingmap.bergison.com) — Web and Android real-time moving map covering all DCS theaters
 - [DCS UFC X](https://github.com/pet333r/pw-dev_script) — Android touchscreen UFC/ICP panel app for data entry into DCS aircraft
 - [DCS-ExportScripts](https://github.com/s-d-a/DCS-ExportScripts) — Export cockpit data to external displays, apps, and Ikarus gauges
