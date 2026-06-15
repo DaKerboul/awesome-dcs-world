@@ -322,6 +322,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Weapon Mods
 
+- [EU+US Weapons for JF-17](https://www.digitalcombatsimulator.com/en/files/3345045) — Non-authentic fun mod adding EU and US weapons to the JF-17
 
 ### Sound Mods
 
