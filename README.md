@@ -319,6 +319,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Asset & Unit Packs
 
+- [Infantry - Animated Pilot Mod](https://forum.dcs.world/topic/196334-infantry-unit-animated-pilot-mod) — Adds animated infantry and downed-pilot static and AI units
 
 ### Weapon Mods
 
