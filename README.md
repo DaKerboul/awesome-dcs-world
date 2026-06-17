@@ -165,6 +165,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Caucasus Training Map by NZArmA](https://www.digitalcombatsimulator.com/en/files/3319714/) — AAR, interception, escort, mobile targets, JTAC, SAM — all in one mission
 - [DCS OVERLOAD Caucasus](https://github.com/srogers909/DCS_OVERLOAD_Caucasus) — Air-to-air training with respawning aggressors, situational awareness focus
 - [Hoggit Training Server](https://wiki.hoggitworld.com/view/Hoggit_Training_Server) — 24/7 community training server on Caucasus with airfields, SAM threats, and range targets
+- [Through the Inferno](https://www.throughtheinferno.com/) — Dynamic action and training missions with randomized spawns, objectives, and JTAC, for SP and co-op on many maps
 
 ### Third-Party Campaigns
 
