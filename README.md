@@ -361,6 +361,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 ### Sound Mods
 
 - [Skullz Genuine Huey Sound Mod](https://forum.dcs.world/topic/134264-skullz-genuine-huey-sound-mod) — Realistic UH-1H Huey engine and rotor sound replacement
+- [Echo 19](https://shop.echo19audio.com/en-eur/pages/dcs-addons) - Sound rework for the F/A-18, F-16, Mustang, Spitfire and DCS core
 
 ---
 
