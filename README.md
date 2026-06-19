@@ -157,6 +157,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ### Planning Tools
 
 - [MizMap](https://github.com/mizmap/mizmap) — Live browser map for mission creators; place and track units in real time while building
+- [DCS Planner](https://dcsplanner.com/) - A website to plan your mission stear points, geolines, drawing and more
 
 ### Training Missions
 
