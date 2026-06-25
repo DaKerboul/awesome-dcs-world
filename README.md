@@ -153,10 +153,12 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Real Weather](https://github.com/evogelsa/dcs-real-weather) — Fetches a live METAR and patches the weather block in a `.miz` before server restart (★32)
 - [DCS WeatherInjector](https://github.com/destotelhorus/DCS-WeatherInjector) — CLI/scheduled METAR and datetime injection for dedicated servers
 - [VEAF Mission Converter](https://github.com/VEAF/VEAF-mission-converter) — Unpacks a `.miz` into a versionable folder, edit, then rebuild with VEAF scripts injected
+- [DCS Web Editor](https://dcs-web-editor.vercel.app/user) Free mission editor that works in the browser, multi drag & select, copy/paste, undo/redo, and easy porting of missions to different theaters.
 
 ### Planning Tools
 
 - [MizMap](https://github.com/mizmap/mizmap) — Live browser map for mission creators; place and track units in real time while building
+- [DCS Web Planner](https://dcs-web-editor.github.io/dcs-web-viewer-deploy/) Free mission planner that works in the browser without installation. Includes kneeboard generator, DTC export/import and more
 - [DCS Planner](https://dcsplanner.com/) - A website to plan your mission stear points, geolines, drawing and more
 
 ### Training Missions
@@ -265,6 +267,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Capt Zeen Helios Profiles](http://www.captzeen.com/helios/profiles.asp) — Large library of Helios profiles with monitor configurations for many aircraft
 - [DCS Kneeboard (iOS & Android)](https://forum.dcs.world/topic/256088-dcs-kneeboard-ios-android-app) — iOS and Android kneeboard app for flight plans, charts, and checklists
 - [DCS Moving Map](https://movingmap.bergison.com) — Web and Android real-time moving map covering all DCS theaters
+- [DCS Live Map](https://dcs-web-editor.github.io/dcs-web-viewer-deploy/live/) free moving map for OpenKneeboard or ingame browser, many options and layers
 - [DCS SAM Threat Guide](https://www.digitalcombatsimulator.com/en/files/3331424) — Kneeboard reference for SAM systems, ranges, and threat recognition
 - [DCS UFC X](https://github.com/pet333r/pw-dev_script) — Android touchscreen UFC/ICP panel app for data entry into DCS aircraft
 - [DCS-ExportScripts](https://github.com/s-d-a/DCS-ExportScripts) — Export cockpit data to external displays, apps, and Ikarus gauges
