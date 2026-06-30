@@ -127,6 +127,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 
 ### Developer Tools
 
+- [DCS-Basic-EFM-Template](https://github.com/IGServal/DCS-Basic-EFM-Template) `[inactive]` — Enhanced External Flight Model template for DCS module developers (★33)
 - [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) — Exports cockpit state over serial/UDP; the base layer for physical panel integration (★406)
 - [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library) — Arduino/ESP32 client library for DCS-BIOS (★69)
 - [DCS-fiddle](https://github.com/flying-dice/dcs-fiddle) — Browser-based DCS Lua REPL; test scripts without restarting the mission
@@ -134,6 +135,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS-gRPC Python bindings](https://github.com/DCS-gRPC/python-bindings) — Auto-generated Python stubs for the DCS-gRPC API
 - [DCS-gRPC rust-server](https://github.com/DCS-gRPC/rust-server) — Rust gRPC server embedded in DCS; exposes mission events and commands to external clients (★101)
 - [DCS Lua Debugger](https://github.com/Reousa/VSCode-DCS-Debugger) — VSCode debug adapter for Lua running inside DCS missions
+- [DCS Lua Definitions](https://github.com/omltcat/dcs-lua-definitions) — VS Code IntelliSense and type hints for DCS World Lua scripting
 - [DCS Scratchpad](https://github.com/rkusa/dcs-scratchpad) — In-game scratchpad overlay for notes and coordinates (★200)
 - [Hoggit DCS SSE Wiki](https://wiki.hoggitworld.com/view/Simulator_Scripting_Engine_Documentation) — Reference for the in-game Lua scripting environment: functions, classes, callbacks
 - [Quaggles DCS Input Command Injector](https://github.com/Quaggles/dcs-input-command-injector) — Adds custom per-aircraft keybinds that survive updates without editing default input Lua
@@ -206,6 +208,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Dedicated Server — ED Guide](https://www.digitalcombatsimulator.com/en/support/faq/server/) — ED's official guide to setting up a headless DCS dedicated server
 - [DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot) — See Communication; also handles server admin, slot blocking, weather injection, extension management
 - [DCSOlympus](https://github.com/Pax1601/DCSOlympus) — Real-time RTS map control: spawn, task, and remove units on a live server via web map; Blue/Red GM modes (★347)
+- [FunkMan](https://github.com/funkyfranky/FunkMan) — Discord bot interface for MOOSE-based DCS multiplayer servers (★19)
 - [Perun](https://github.com/szporwolik/perun) `[inactive]` — Lua plugin exporting sim data to MySQL; merges SRS and LotATC for unified analytics dashboards
 
 ### Tactical Awareness
@@ -213,8 +216,10 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCSOlympus](https://github.com/Pax1601/DCSOlympus) — Live map showing all coalition units; coalition view can be restricted for realistic ops
 - [LotATC](https://www.lotatc.com/) `[paid]` — GCI/ATC radar client+server with realistic radar coverage, IFF, and BRAA tools; integrates with SRS
 - [LotATC — Hoggit Wiki](https://wiki.hoggitworld.com/view/LotATC) — How to connect to a LotATC server and perform GCI
+- [peace-eye](https://github.com/pbzweihander/peace-eye) `[inactive]` — Desktop AWACS/GCI simulator using Tacview and DCS World data (★22)
 - [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot; handles PICTURE, BOGEY DOPE, DECLARE, SPIKED calls over SRS (★400+)
 - [Sneaker — WebGCI](https://github.com/Aterfax/sneaker) — Web-based GCI situational awareness dashboard pulling from DCS-gRPC
+- [StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) — Standalone radar scope and control app for DCS World GCI (★43)
 
 ### AI / ATC / IADS
 
@@ -261,6 +266,8 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Helios](https://github.com/HeliosVirtualCockpit/Helios) — Touchscreen virtual cockpit builder with per-aircraft profiles; communicates via exports.lua (★248)
 - [Hoggit Wiki — DCS-BIOS / Cockpit Building](https://wiki.hoggitworld.com/view/DCS_Bios_/_Cockpit_Building) — Getting started with cockpit building and DCS-BIOS
 - [Ikarus](https://github.com/s-d-a/Ikarus) — Virtual cockpit gauges on a secondary monitor or tablet via DCS ExportScript
+- [OpenHornet](https://github.com/jrsteensen/OpenHornet) — Open-source 1:1 scale F/A-18C cockpit simulator with full build docs (★409)
+- [SimFeedback-AC-Servo](https://github.com/SimFeedback/SimFeedback-AC-Servo) — Open-source AC servo motion simulator platform for flight sims (★321)
 
 ### Kneeboard & Overlays
 
@@ -284,6 +291,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ### VR
 
 - [DCS VR Optimization Guide](https://www.gamersbynight.com/dcs-settings-vr/) — Step-by-step for OpenXR, MT mode, and VR performance tuning in DCS 2.8+
+- [HTCC — Hand Tracking Cockpit Clicking](https://github.com/fredemmott/HTCC) — Hand-tracking cockpit interaction for VR flight simulators (★72)
 - [fholger/vrperfkit](https://github.com/fholger/vrperfkit) `[inactive]` — FSR/NIS/CAS upscaling and foveated rendering for SteamVR/OpenVR (★1,400)
 - [mbucchia/OpenXR-Toolkit](https://github.com/mbucchia/OpenXR-Toolkit) `[inactive]` — FSR/NIS upscaling, foveated rendering, and post-processing for OpenXR; development stopped April 2024
 - [mbucchia/Quad-Views-Foveated](https://github.com/mbucchia/Quad-Views-Foveated) — OpenXR foveated rendering layer for Pimax Crystal, Quest Pro, and other eye-tracked headsets (★181)
@@ -298,9 +306,11 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [AITrack](https://github.com/AIRLegend/aitrack) — Webcam face tracker feeding OpenTrack via neural net; low CPU, no IR hardware needed
 - [Chuck's Guides — HOTAS Sections](https://chucksguides.com/) — Recommended HOTAS bindings for each module
 - [ControllerBuddy](https://controllerbuddy.org/) — Game controller mapping tool for flight sims; profiles for most DCS modules (★168)
+- [dcspy](https://github.com/emcek/dcspy) — Logitech keyboard LCD and LED device integration for DCS aircraft (★21)
 - [DCS Detent Calculator](https://github.com/asherao/DCS-Detent-Calculator) — Spreadsheet that finds throttle detent positions for afterburner and idle cutoff
 - [DelanClip](https://delanclip.com/) `[paid]` — Affordable IR LED head-tracking clip; works with OpenTrack and TrackIR software
 - [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR) — DIY open-source eye-tracking for VR headsets; ESP32 firmware + PC software
+- [FOXTracker](https://github.com/xuhao1/FOXTracker) `[inactive]` — Facial head pose tracker for gaming; alternative to TrackIR and AITrack (★489)
 - [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals_Guide) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
 - [Joystick Diagrams](https://joystick-diagrams.com/) — Generates printable layout diagrams from your DCS bindings
 - [OpenTrack](https://github.com/opentrack/opentrack) — Free head-tracking software; supports FaceTrackNoIR, Aruco, IR clip, FreeTrack output (★3,000+)
