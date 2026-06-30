@@ -66,8 +66,8 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 DCS World ships with two permanently free aircraft. Most paid modules also offer a 14-day free trial via the Module Manager.
 
 - [A-4E-C Skyhawk](https://github.com/Community-A-4E/community-a4e-c) — Community-built carrier-capable Skyhawk with clickable cockpit, custom flight model, and air-to-ground radar; free and open source
-- [Su-25T Frogfoot](https://www.digitalcombatsimulator.com/en/shop/modules/su-25t/) — Free ground-attack aircraft included with the base game; good first module for learning weapons employment
-- [TF-51D Mustang](https://www.digitalcombatsimulator.com/en/shop/modules/tf-51d/) — Free unarmed trainer based on the P-51D; recommended for learning basic flight and aerobatics
+- [Su-25T Frogfoot](https://www.digitalcombatsimulator.com/en/downloads/world/) — Free ground-attack aircraft included with the base game; good first module for learning weapons employment
+- [TF-51D Mustang](https://www.digitalcombatsimulator.com/en/downloads/world/) — Free unarmed trainer based on the P-51D; recommended for learning basic flight and aerobatics
 - [VNAO T-45C Goshawk](https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/) — Free community naval jet trainer with clickable cockpit and carrier ops support; made by Virtual Naval Air Operations
 - [Free Trial System](https://www.digitalcombatsimulator.com/en/shop/modules/) — Most paid modules can be trialed for 14 days via the in-game Module Manager; no purchase required
 
@@ -88,10 +88,10 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 ## Guides & Manuals
 
 - [Chuck's Guides](https://chucksguides.com/) — Illustrated guides for almost every module: startup, systems, weapons, navigation
-- [DCShelin](https://dcshelin.github.io/) — Community Michelin-style ratings for modules, terrains, and campaigns
+- [DCShelin](https://forums.mudspike.com/t/introducing-the-michelin-guide-for-dcs-world/7902) — Community Michelin-style ratings for modules, terrains, and campaigns
 - [ED Forums — Guides & Tutorials](https://forum.dcs.world/forum/42-guides-amp-tutorials/) — Community tutorials section on the official forum
 - [Heatblur F-14 Manual](https://www.heatblur.se/F-14Manual/) — The F-14A/B online manual; covers pilot seat, RIO station, and Jester AI
-- [Hoggit Wiki — Guides](https://wiki.hoggitworld.com/view/Guides) — BFM, carrier ops, peripherals, scripting
+- [Hoggit Wiki — Guides](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki) — BFM, carrier ops, peripherals, scripting
 - [TAW Radar Simulator](https://tawdcs.org/radar-f15/) — Browser-based F-15 radar trainer; good starting point before going BVR online
 
 ---
@@ -133,7 +133,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS-gRPC Go bindings](https://github.com/DCS-gRPC/go-bindings) — Go protobuf/gRPC bindings for the DCS-gRPC API
 - [DCS-gRPC Python bindings](https://github.com/DCS-gRPC/python-bindings) — Auto-generated Python stubs for the DCS-gRPC API
 - [DCS-gRPC rust-server](https://github.com/DCS-gRPC/rust-server) — Rust gRPC server embedded in DCS; exposes mission events and commands to external clients (★101)
-- [DCS Lua Debug Adapter](https://github.com/applevangelist/DCS-Lua-Debugger) — VSCode debug adapter for Lua running inside DCS missions
+- [DCS Lua Debugger](https://github.com/Reousa/VSCode-DCS-Debugger) — VSCode debug adapter for Lua running inside DCS missions
 - [DCS Scratchpad](https://github.com/rkusa/dcs-scratchpad) — In-game scratchpad overlay for notes and coordinates (★200)
 - [Hoggit DCS SSE Wiki](https://wiki.hoggitworld.com/view/Simulator_Scripting_Engine_Documentation) — Reference for the in-game Lua scripting environment: functions, classes, callbacks
 - [Quaggles DCS Input Command Injector](https://github.com/Quaggles/dcs-input-command-injector) — Adds custom per-aircraft keybinds that survive updates without editing default input Lua
@@ -167,7 +167,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [BFM Gun-only Practice v2.1](https://www.digitalcombatsimulator.com/en/files/3325527/) — 1v1 cannon-only BFM on Caucasus and Marianas
 - [Caucasus Training Map by NZArmA](https://www.digitalcombatsimulator.com/en/files/3319714/) — AAR, interception, escort, mobile targets, JTAC, SAM — all in one mission
 - [DCS OVERLOAD Caucasus](https://github.com/srogers909/DCS_OVERLOAD_Caucasus) — Air-to-air training with respawning aggressors, situational awareness focus
-- [Hoggit Training Server](https://wiki.hoggitworld.com/view/Hoggit_Training_Server) — 24/7 community training server on Caucasus with airfields, SAM threats, and range targets
+- [Hoggit Training Map](https://wiki.hoggitworld.com/view/Hoggit_Training_Map) — 24/7 community training server on Caucasus with airfields, SAM threats, and range targets
 - [Through the Inferno](https://www.throughtheinferno.com/) — Dynamic action and training missions with randomized spawns, objectives, and JTAC, for SP and co-op on many maps
 
 ### Third-Party Campaigns
@@ -175,7 +175,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [Baltic Dragon Campaigns](https://www.digitalcombatsimulator.com/en/shop/campaigns/?CREATOR=Baltic+Dragon) `[paid]` — Raven One, The Gamblers, The Rampagers, Arctic Thunder; extensive voice work
 - [Bunyap Campaigns](https://www.digitalcombatsimulator.com/en/shop/campaigns/?CREATOR=Bunyap+Campaigns) `[paid]` — A-10C II and F/A-18C campaigns; authentic CAS and SEAD scenarios
 - [Free Community Campaigns](https://www.digitalcombatsimulator.com/en/files/filter/type-is-campaign/localization-is-english/apply/) — Hundreds of free player-made campaigns on ED User Files
-- [Heatblur Speed and Angels](https://www.digitalcombatsimulator.com/en/shop/campaigns/dcs_f-14_speed_and_angels_campaign/) `[paid]` — F-14B campaign voiced by an actual US Navy RIO
+- [Heatblur Speed and Angels](https://www.digitalcombatsimulator.com/en/shop/campaigns/f-14_speed_and_angels_campaign/) `[paid]` — F-14B campaign voiced by an actual US Navy RIO
 - [Reflected Simulations](https://www.digitalcombatsimulator.com/en/shop/campaigns/?CREATOR=Reflected+Simulations) `[paid]` — WWII through modern campaigns (P-47, P-51, Spitfire, F/A-18C); known for writing and voice work
 
 ---
@@ -221,8 +221,8 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [AI_ATC Nellis AFB](https://github.com/Avalanche110/AI_ATC_Nellis_AFB) — Script adding AI-controlled ATC and ground traffic to Nellis AFB
 - [DATIS](https://github.com/rkusa/DATIS) — Generates airfield and carrier ATIS broadcasts over SRS from in-mission weather (★100+)
 - [DCS AI REVAMP](https://forum.dcs.world/topic/383084-dcs-ai-revamp-a-dynamic-battlefield-and-advanced-ground-ai-system) `[WIP]` — Scripted dynamic battlefield with smarter, more reactive ground AI
-- [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.AirBoss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
-- [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.MANTIS.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
+- [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Airboss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
+- [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Mantis.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) — The reference IADS script: EWR datalinks SAM sites, SAMs go cold on HARM detection, supports HighDigitSAMs (★218)
 - [skyeye](https://github.com/dharmab/skyeye) — Modern OverlordBot replacement; better speech recognition and correct brevity procedures (★400+)
 
@@ -238,8 +238,8 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DDCS — Dynamic DCS Server](https://ddcs.io/) — Long-running PvP server with economy and scoring system
 - [Enigma's Cold War Campaign](https://forum.dcs.world/topic/287464-enigmas-dynamic-cold-war-campaign-pvppve-server/) — Cold War PvP/PvE (Caucasus/Syria) with sector attrition mechanics; [source on GitHub](https://github.com/Enigma1989YT/Enigma-Cold-War-V1-Public)
 - [Growling Sidewinder Server](https://growlingsidewinder.com/) — High-population fast jet PvP; stats at stats.growlingsidewinder.com
-- [Hoggit GAW — Georgia At War](https://wiki.hoggitworld.com/view/Hoggit_Georgia_At_War) — Hoggit's flagship Caucasus persistent server; new-pilot friendly
-- [Hoggit PGAW — Persian Gulf At War](https://wiki.hoggitworld.com/view/Hoggit_Persian_Gulf_At_War) — GAW's Persian Gulf counterpart
+- [Hoggit GAW — Georgia At War](https://atwar.online/gaw.php) — Hoggit's flagship Caucasus persistent server; new-pilot friendly
+- [Hoggit PGAW — Persian Gulf At War](https://atwar.online/pgaw.php) — GAW's Persian Gulf counterpart
 
 ### Events & Competitions
 
@@ -301,7 +301,7 @@ DCS World ships with two permanently free aircraft. Most paid modules also offer
 - [DCS Detent Calculator](https://github.com/asherao/DCS-Detent-Calculator) — Spreadsheet that finds throttle detent positions for afterburner and idle cutoff
 - [DelanClip](https://delanclip.com/) `[paid]` — Affordable IR LED head-tracking clip; works with OpenTrack and TrackIR software
 - [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR) — DIY open-source eye-tracking for VR headsets; ESP32 firmware + PC software
-- [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
+- [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals_Guide) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
 - [Joystick Diagrams](https://joystick-diagrams.com/) — Generates printable layout diagrams from your DCS bindings
 - [OpenTrack](https://github.com/opentrack/opentrack) — Free head-tracking software; supports FaceTrackNoIR, Aruco, IR clip, FreeTrack output (★3,000+)
 - [RS Mapper](https://forum.dcs.world/topic/175248-rs-mapper-release) `[inactive]` — Maps advanced HOTAS modes and shift states that DCS does not expose natively
@@ -373,7 +373,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### F/A-18C Hornet
 - [Chuck's F/A-18C Guide](https://chucksguides.com/aircraft/dcs/fa-18c/) — Radar, TPOD, JDAM, JSOW, UFC procedures
-- [Hoggit Carrier Operations Guide](https://wiki.hoggitworld.com/view/Carrier_Operations) — CASE I/II/III patterns, ICLS setup, LSO grading
+- [Hoggit Carrier Operations Guide](https://wiki.hoggitworld.com/view/Carrier_Air_Operations) — CASE I/II/III patterns, ICLS setup, LSO grading
 
 ### F-16C Viper
 - [Chuck's F-16C Guide](https://chucksguides.com/aircraft/dcs/f-16cm/) — DTC, SMS, HSD, FCR, HARM procedures
@@ -391,8 +391,8 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [George AI TEDAC Guide — ED Forums](https://forum.dcs.world/topic/316879-george-ai-tedac/) — Community reference for using the George AI co-pilot
 
 ### Supercarrier
-- [Hoggit Carrier Operations Guide](https://wiki.hoggitworld.com/view/Carrier_Operations) — CASE I/II/III, ICLS, LSO grading
-- [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.AirBoss.html) — Scripted LSO grading, recovery tanker management, carrier ATC
+- [Hoggit Carrier Operations Guide](https://wiki.hoggitworld.com/view/Carrier_Air_Operations) — CASE I/II/III, ICLS, LSO grading
+- [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Airboss.html) — Scripted LSO grading, recovery tanker management, carrier ATC
 
 ---
 
@@ -422,11 +422,11 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [Ralfidude](https://www.youtube.com/@Ralfidude) — Combat footage with commentary; known for the Ralf-cam
 - [Redkite](https://www.youtube.com/@redkite81) — Advanced systems tutorials, realism-focused
 - [Reflected Simulations](https://www.youtube.com/@ReflectedSimulations) — Campaign developer; historical content and mission design insights
-- [Spudknocker](https://www.youtube.com/@Spudknocker) — DCS entertainment: aircraft tutorials and multiplayer ops
+- [Spudknocker](https://www.youtube.com/spudknocker) — DCS entertainment: aircraft tutorials and multiplayer ops
 
 ### News & Media
 
-- [FSElite — DCS News](https://fselite.net/category/dcs-world/) — Flight sim news site with regular DCS coverage
+- [FSElite — DCS News](https://fselite.net/simulator/dcs/) — Flight sim news site with regular DCS coverage
 - [Mudspike](https://mudspike.com/) — DCS articles, reviews, and AARs; also hosts Chuck's Guides
 - [Stormbirds](https://stormbirds.blog/) — DCS news and dev update commentary; active since 2016
 
