@@ -255,6 +255,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [AI_ATC Nellis AFB](https://github.com/Avalanche110/AI_ATC_Nellis_AFB) — Script adding AI-controlled ATC and ground traffic to Nellis AFB
 - [DATIS](https://github.com/rkusa/DATIS) `[inactive]` — Generates airfield and carrier ATIS broadcasts over SRS from in-mission weather (★110)
 - [DCS AI REVAMP](https://forum.dcs.world/topic/383084-dcs-ai-revamp-a-dynamic-battlefield-and-advanced-ground-ai-system) `[WIP]` — Scripted dynamic battlefield with smarter, more reactive ground AI
+- [DCS Airspace by Combined Ops](https://airspace.combinedops.org) — Web-based real-time ATC, AWACS and GCI software client for DCS World, with radar display, IFF, BRAA, PICTURE, intercept cut-off calculations, ACO, SRS, and DCS-native data and detection
 - [Medusa IADS](https://github.com/medusa-iads/medusa) — Modern IADS script: customizable doctrines, Pk-based engagement, kinematic HARM detection, no dependencies
 - [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Airboss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
 - [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Mantis.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
