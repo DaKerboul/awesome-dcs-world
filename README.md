@@ -93,7 +93,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 - [8492nd — DCS Performance and Settings Guide](https://www.8492sqdn.net/guides/dcs/performance/) — Bottleneck diagnosis, hardware picks, Windows and GPU tweaks, per-setting impact, crash fixes
 - [Chuck's Guides](https://chucksguides.com/) — Illustrated guides for almost every module: startup, systems, weapons, navigation
-- [DCS on Linux](https://github.com/ChaosRifle/DCS-on-Linux) — Maintained guide, tools and workarounds for running the DCS client on Linux via Proton or Wine (★57)
+- [DCS on Linux](https://github.com/ChaosRifle/DCS-on-Linux) — Maintained guide, tools and workarounds for running the DCS client on Linux via Proton or Wine (★62)
 - [DCShelin](https://forums.mudspike.com/t/introducing-the-michelin-guide-for-dcs-world/7902) — Community Michelin-style ratings for modules, terrains, and campaigns
 - [ED Forums — Guides & Tutorials](https://forum.dcs.world/forum/42-guides-amp-tutorials/) — Community tutorials section on the official forum
 - [Heatblur F-14 Manual](https://www.heatblur.se/F-14Manual/) — The F-14A/B online manual; covers pilot seat, RIO station, and Jester AI
@@ -107,11 +107,11 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 ### Frameworks
 
-- [dcs-sms](https://github.com/nielsvaes/dcs-sms) — Lightweight scripting framework, Mission Editor prefab manager and host-side CLI in one project (★37)
+- [dcs-sms](https://github.com/nielsvaes/dcs-sms) — Lightweight scripting framework, Mission Editor prefab manager and host-side CLI in one project (★42)
 - [DML — Dynamic Mission Library](https://github.com/csofranz/DML) — Attribute-driven mission toolbox: build dynamic missions from Mission Editor zones with no Lua (★59)
-- [MIST — Mission Scripting Tools](https://github.com/mrSkortch/MissionScriptingTools) `[inactive]` — Lightweight Lua utility library; still the standard dependency for CTLD, CSAR, and many community scripts (★219)
+- [MIST — Mission Scripting Tools](https://github.com/mrSkortch/MissionScriptingTools) — Lightweight Lua utility library; still the standard dependency for CTLD, CSAR, and many community scripts (★220)
 - [MIST Documentation — Hoggit Wiki](https://wiki.hoggitworld.com/view/Mission_Scripting_Tools_Documentation) — MIST API reference
-- [MOOSE](https://github.com/FlightControl-Master/MOOSE) — Massive OOP Lua framework: AI dispatchers, ATIS, MANTIS IADS, CTLD, CSAR, AirBoss… (★346)
+- [MOOSE](https://github.com/FlightControl-Master/MOOSE) — Massive OOP Lua framework: AI dispatchers, ATIS, MANTIS IADS, CTLD, CSAR, AirBoss… (★350)
 - [MOOSE Documentation](https://flightcontrol-master.github.io/MOOSE/) — Auto-generated reference for all MOOSE classes and methods
 - [pydcs](https://github.com/pydcs/dcs) — Generate and edit `.miz` files from Python; powers DCS Liberation and Retribution (★189)
 - [VEAF Mission Creation Tools](https://github.com/VEAF/VEAF-Mission-Creation-Tools) — Lua + Node.js for git-versioned DCS missions with dynamic spawning, ATIS, and radio menus (★25)
@@ -122,7 +122,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [CSAR — Combat Search and Rescue](https://github.com/ciribob/DCS-CSAR) `[inactive]` — Rescues ejected pilots and delivers them to a friendly FARP; requires MIST
 - [CTLD — Complete Troops & Logistics Deployment](https://github.com/ciribob/DCS-CTLD) — Helicopter troop transport, sling-load logistics, FARP construction, JTAC
 - [DATIS — DCS ATIS via SRS](https://github.com/rkusa/DATIS) `[inactive]` — Generates spoken ATIS over SRS using in-mission weather; supports AWS Polly and Google TTS (★110)
-- [DCS-Hound](https://github.com/uriba107/DCS-Hound) — Realistic ELINT script: triangulates emitting radars from multiple platforms, draws F10 uncertainty ellipses (★44)
+- [DCS-Hound](https://github.com/uriba107/DCS-Hound) — Realistic ELINT script: triangulates emitting radars from multiple platforms, draws F10 uncertainty ellipses (★43)
 - [DCS-SimpleTextToSpeech](https://github.com/ciribob/DCS-SimpleTextToSpeech) `[inactive]` — Lua script adding text-to-speech and MP3 playback over SRS; a dependency of many missions (★23)
 - [HoundTTS](https://github.com/uriba107/HoundTTS) — Native C++ TTS extension sending Piper, SAPI, Azure, Google or ElevenLabs speech to SRS from mission scripts
 - [JTAC AutoLaze](https://github.com/ciribob/DCS-JTACAutoLaze) `[inactive]` — Auto-lasing JTAC script; functionality absorbed into DCS Liberation
@@ -130,36 +130,36 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 ### Dynamic Campaigns
 
-- [DCC — Digital Crew Chief](https://github.com/kilcekru/dcc) — Zero-config dynamic campaign app: auto-generated CAP/CAS/strike sorties, persistence, multiplayer (★99)
+- [DCC — Digital Crew Chief](https://github.com/kilcekru/dcc) — Zero-config dynamic campaign app: auto-generated CAP/CAS/strike sorties, persistence, multiplayer (★101)
 - [DCE — Dynamic Campaign Engine](https://github.com/bbirchnz/dce-campaign-builder) — Community builder for the original MBot/Minsky persistent turn-by-turn campaign engine
 - [DCT — Dynamic Campaign Tools](https://github.com/jtoppins/dct) `[inactive]` — Lua framework for persistent server-side campaigns; scenarios built from templates, no external program needed
 - [DCT Documentation](https://jtoppins.github.io/dct/) — Full docs and quick-start for DCT
-- [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation) — Turn-based SP/co-op dynamic campaign generator: persistent front-line, IADS, JTAC, SEAD (★796)
+- [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation) — Turn-based SP/co-op dynamic campaign generator: persistent front-line, IADS, JTAC, SEAD (★799)
 - [DSMC](https://dsmcfordcs.wordpress.com/) — Scenery persistence mod: saves unit damage, positions and warehouse stocks into a new .miz mission
 - [Foothold by Leka](https://www.digitalcombatsimulator.com/en/files/3341245/) — Maintained Foothold zone-capture missions: Cold War, Modern and Vietnam eras, persistence, multi-language
 - [Foothold — zoneCommander](https://github.com/Dzsek/zoneCommander) `[inactive]` — Zone-capture PvE sandbox engine behind the Foothold missions; persistent progress and AI logistics (★26)
 - [Pretense](https://github.com/GoldJohnKing/pretense) `[inactive]` — In-mission sandbox: mercenary economy, AI logistics, XP progression, persistence
-- [Retribution](https://github.com/dcs-retribution/dcs-retribution) — Active Liberation fork; adds Splash Damage, CTLD, improved front-line mechanics (★176)
+- [Retribution](https://github.com/dcs-retribution/dcs-retribution) — Active Liberation fork; adds Splash Damage, CTLD, improved front-line mechanics (★177)
 
 ### Developer Tools
 
 - [Blender EDM Exporter](https://github.com/EagleDynamics/Blender-EDM-Exporter) — Official ED Blender plugin exporting 3D models to EDM: animation args, connectors, collisions, damage (★56)
-- [DCS Lua Datamine](https://github.com/Quaggles/dcs-lua-datamine) — Auto-dumped Lua tables for every weapon, unit and sensor; the reference for RCS, IR and missile data (★132)
+- [DCS Lua Datamine](https://github.com/Quaggles/dcs-lua-datamine) — Auto-dumped Lua tables for every weapon, unit and sensor; the reference for RCS, IR and missile data (★134)
 - [DCS Modding Documentation](https://modding.caffeinesimulations.com/) — DCS OpenSource reference for aircraft mods: Lua device stubs, EFM API, indicators, draw args
 - [DCS-Basic-EFM-Template](https://github.com/IGServal/DCS-Basic-EFM-Template) `[inactive]` — Enhanced External Flight Model template for DCS module developers (★34)
-- [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) — Exports cockpit state over serial/UDP; the base layer for physical panel integration (★428)
-- [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library) — Arduino/ESP32 client library for DCS-BIOS (★70)
+- [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) — Exports cockpit state over serial/UDP; the base layer for physical panel integration (★433)
+- [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library) — Arduino/ESP32 client library for DCS-BIOS (★73)
 - [DCS-fiddle](https://github.com/flying-dice/dcs-fiddle) — Browser-based DCS Lua REPL; test scripts without restarting the mission
 - [DCS-gRPC Go bindings](https://github.com/DCS-gRPC/go-bindings) `[inactive]` — Go protobuf/gRPC bindings for the DCS-gRPC API
 - [DCS-gRPC Python bindings](https://github.com/DCS-gRPC/python-bindings) `[inactive]` — Auto-generated Python stubs for the DCS-gRPC API
-- [DCS-gRPC rust-server](https://github.com/DCS-gRPC/rust-server) — Rust gRPC server embedded in DCS; exposes mission events and commands to external clients (★117)
+- [DCS-gRPC rust-server](https://github.com/DCS-gRPC/rust-server) — Rust gRPC server embedded in DCS; exposes mission events and commands to external clients (★118)
 - [DCS Lua Debugger](https://github.com/Reousa/VSCode-DCS-Debugger) `[inactive]` — VSCode debug adapter for Lua running inside DCS missions
 - [DCS Lua Definitions](https://github.com/omltcat/dcs-lua-definitions) — VS Code IntelliSense and type hints for DCS World Lua scripting
 - [DCS Scratchpad](https://github.com/rkusa/dcs-scratchpad) — In-game scratchpad overlay for notes and coordinates (★202)
 - [Hoggit DCS SSE Wiki](https://wiki.hoggitworld.com/view/Simulator_Scripting_Engine_Documentation) — Reference for the in-game Lua scripting environment: functions, classes, callbacks
 - [Quaggles DCS Input Command Injector](https://github.com/Quaggles/dcs-input-command-injector) — Adds custom per-aircraft keybinds that survive updates without editing default input Lua
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) `[inactive]` — EWR stations datalink SAM sites; SAMs go cold on HARM detection (★226)
-- [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot with voice recognition and neural TTS; runs over SRS and DCS-gRPC (★120)
+- [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot with voice recognition and neural TTS; runs over SRS and DCS-gRPC (★121)
 - [Tacview ACMI SDK](https://www.tacview.net/documentation/acmi/en/) — ACMI format spec and SDK for building Tacview-compatible exporters
 - [Twitch2DCS](https://github.com/rthom91/twitch2dcs) — Shows Twitch chat inside DCS so VR streamers can read it without removing the headset
 - [undo](https://github.com/snwfke/undo) `[WIP]` — Mission Editor extension adding undo to DCS; installed by an executable, no manual file patching
@@ -170,20 +170,20 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 ### Mission Generators
 
-- [BriefingRoom for DCS](https://github.com/DCS-BR-Tools/briefing-room-for-dcs) — GUI/CLI generator producing SP/MP `.miz` files in seconds; custom templates, scripted SAMs and JTAC (★303)
+- [BriefingRoom for DCS](https://github.com/DCS-BR-Tools/briefing-room-for-dcs) — GUI/CLI generator producing SP/MP `.miz` files in seconds; custom templates, scripted SAMs and JTAC (★306)
 - [CombatFlite](https://www.combatflite.com/) `[paid]` — Mission planner with DCS export, briefing packs, kneeboard cards, and airspace deconfliction
 - [DCS Real Weather](https://github.com/evogelsa/dcs-real-weather) — Fetches a live METAR and patches the weather block in a `.miz` before server restart (★36)
 - [DCS WeatherInjector](https://github.com/destotelhorus/DCS-WeatherInjector) `[inactive]` — CLI/scheduled METAR and datetime injection for dedicated servers
 - [DCS Web Editor](https://dcs-web-editor.vercel.app/user) — Browser mission editor: multi drag-select, copy/paste, undo/redo, and porting missions between theaters
 - [RotorOps](https://github.com/spencershepard/RotorOps) `[inactive]` — Helicopter mission generator and scripts: dynamic ground war, staged zone capture, SP/co-op/MP (★92)
-- [VEAF Mission Converter](https://github.com/VEAF/VEAF-mission-converter) — Unpacks a `.miz` into a versionable folder, edit, then rebuild with VEAF scripts injected
+- [VEAF Mission Converter](https://github.com/VEAF/VEAF-mission-converter) `[inactive]` — Unpacks a `.miz` into a versionable folder, edit, then rebuild with VEAF scripts injected
 
 ### Planning Tools
 
 - [Combined Ops](https://www.combinedops.org/) — Multi-squadron ops platform: mission planner, ATO/ACO generation from .miz files, airspace control
 - [DCS Planner](https://dcsplanner.com/) — Web app to plan mission steerpoints, geolines, and map drawings
 - [DCS Web Planner](https://dcs-web-editor.github.io/dcs-web-viewer-deploy/) — Browser mission planner, no install; includes kneeboard generator and DTC export/import
-- [DTC for DCS](https://github.com/the-paid-actor/dcs-dtc) — Data Transfer Cartridge app for F-16, F/A-18, F-15E, AH-64D and A-10C II; CombatFlite import (★226)
+- [DTC for DCS](https://github.com/the-paid-actor/dcs-dtc) — Data Transfer Cartridge app for F-16, F/A-18, F-15E, AH-64D and A-10C II; CombatFlite import (★227)
 - [JAFDTC](https://github.com/51st-Vfw/JAFDTC) — Data cartridge tool for A-10C, F-15E, F-16C and F/A-18C; loads avionics via the clickable cockpit
 - [MizMap](https://github.com/mizmap/mizmap) — Live browser map for mission creators; place and track units in real time while building
 
@@ -224,7 +224,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 ### Communication
 
-- [DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot) — Python/Discord bot for server admin: stats, slot blocking, SRS/LotATC/Tacview/Olympus integrations, 30+ plugins (★121)
+- [DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot) — Python/Discord bot for server admin: stats, slot blocking, SRS/LotATC/Tacview/Olympus integrations, 30+ plugins (★123)
 - [SRS — SimpleRadioStandalone](https://github.com/ciribob/DCS-SimpleRadioStandalone) — Open-source VoIP radio tied to cockpit frequencies; present on almost every multiplayer server (★558)
 - [UniversRadio](https://tacnoworld.fr/universradio/) — TeamSpeak-based radio sim; models range, terrain masking, modulation, and encryption
 
@@ -234,8 +234,8 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [dcs-server-wine](https://github.com/ActiumDev/dcs-server-wine) — Automated headless DCS + SRS install and management scripts for Linux; multi-instance support
 - [DCS Dedicated Server — ED Guide](https://www.digitalcombatsimulator.com/en/support/faq/server/) — ED's official guide to setting up a headless DCS dedicated server
 - [DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot) — See Communication; also handles server admin, slot blocking, weather injection, extension management
-- [DCSOlympus](https://github.com/Pax1601/DCSOlympus) — Real-time RTS map control: spawn, task, and remove units on a live server via web map; Blue/Red GM modes (★354)
-- [FunkMan](https://github.com/funkyfranky/FunkMan) — Discord bot interface for MOOSE-based DCS multiplayer servers (★19)
+- [DCSOlympus](https://github.com/Pax1601/DCSOlympus) — Real-time RTS map control: spawn, task, and remove units on a live server via web map; Blue/Red GM modes (★355)
+- [FunkMan](https://github.com/funkyfranky/FunkMan) `[inactive]` — Discord bot interface for MOOSE-based DCS multiplayer servers (★19)
 - [Perun](https://github.com/szporwolik/perun) `[inactive]` — Lua plugin exporting sim data to MySQL; merges SRS and LotATC for unified analytics dashboards
 
 ### Tactical Awareness
@@ -245,7 +245,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [LotATC](https://www.lotatc.com/) `[paid]` — GCI/ATC radar client+server with realistic radar coverage, IFF, and BRAA tools; integrates with SRS
 - [LotATC — Hoggit Wiki](https://wiki.hoggitworld.com/view/LotATC) — How to connect to a LotATC server and perform GCI
 - [peace-eye](https://github.com/pbzweihander/peace-eye) `[inactive]` — Desktop AWACS/GCI simulator using Tacview and DCS World data (★22)
-- [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot; handles PICTURE, BOGEY DOPE, DECLARE, SPIKED calls over SRS (★120)
+- [skyeye](https://github.com/dharmab/skyeye) — Self-hosted AI GCI bot; handles PICTURE, BOGEY DOPE, DECLARE, SPIKED calls over SRS (★121)
 - [Sneaker — WebGCI](https://github.com/Aterfax/sneaker) — Web-based GCI situational awareness dashboard pulling from DCS-gRPC
 - [StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) — Standalone radar scope and control app for DCS World GCI (★43)
 
@@ -260,7 +260,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [MOOSE AirBoss](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Ops.Airboss.html) — Scripted LSO grading, recovery tanker management, and carrier ATC
 - [MOOSE MANTIS](https://flightcontrol-master.github.io/MOOSE_DOCS/Documentation/Functional.Mantis.html) — EWR-controlled SAM management; compatible with Skynet-IADS behavior
 - [Skynet-IADS](https://github.com/walder/Skynet-IADS) `[inactive]` — The reference IADS script: EWR datalinks SAM sites, SAMs go cold on HARM detection, supports HighDigitSAMs (★226)
-- [skyeye](https://github.com/dharmab/skyeye) — Modern OverlordBot replacement; better speech recognition and correct brevity procedures (★120)
+- [skyeye](https://github.com/dharmab/skyeye) — Modern OverlordBot replacement; better speech recognition and correct brevity procedures (★121)
 
 ---
 
@@ -289,19 +289,19 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 ### Cockpit Builders
 
 - [BojoteX/CockpitOS](https://github.com/BojoteX/CockpitOS) — ESP32 firmware for DCS-BIOS panels; USB/Wi-Fi/BLE and TFT displays, no Arduino IDE needed
-- [Bort](https://github.com/DCS-Skunkworks/Bort) — DCS-Skunkworks UI for browsing and live-testing DCS-BIOS control references while building panels (★55)
-- [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) — Exports cockpit state over serial/UDP; required by virtually every hardware integration tool (★428)
-- [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library) — Arduino/ESP32 client library for DCS-BIOS panels (★70)
-- [DCSFlightpanels](https://github.com/DCS-Skunkworks/DCSFlightpanels) — Saitek/Logitech panel and Stream Deck configurator via DCS-BIOS; supports Radio Panel sim and SRS PTT
+- [Bort](https://github.com/DCS-Skunkworks/Bort) — DCS-Skunkworks UI for browsing and live-testing DCS-BIOS control references while building panels (★56)
+- [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) — Exports cockpit state over serial/UDP; required by virtually every hardware integration tool (★433)
+- [DCS-BIOS Arduino Library](https://github.com/DCS-Skunkworks/dcs-bios-arduino-library) — Arduino/ESP32 client library for DCS-BIOS panels (★73)
+- [DCSFlightpanels](https://github.com/DCS-Skunkworks/DCSFlightpanels) `[inactive]` — Saitek/Logitech panel and Stream Deck configurator via DCS-BIOS; supports Radio Panel sim and SRS PTT
 - [ED Forums — Home Cockpits](https://forum.dcs.world/forum/181-home-cockpits) — The official forum section for simpit builds
-- [fsmapper](https://github.com/opiopan/fsmapper) — Builds touchscreen virtual instrument panels and remaps devices for DCS and MSFS; Lua-scripted (★41)
+- [fsmapper](https://github.com/opiopan/fsmapper) — Builds touchscreen virtual instrument panels and remaps devices for DCS and MSFS; Lua-scripted (★42)
 - [Helios](https://github.com/HeliosVirtualCockpit/Helios) — Touchscreen virtual cockpit builder with per-aircraft profiles; communicates via exports.lua (★251)
 - [Hoggit Wiki — DCS-BIOS / Cockpit Building](https://wiki.hoggitworld.com/view/DCS_Bios_/_Cockpit_Building) — Getting started with cockpit building and DCS-BIOS
 - [Ikarus](https://github.com/s-d-a/Ikarus) `[inactive]` — Virtual cockpit gauges on a secondary monitor or tablet via DCS ExportScript
-- [OpenHornet](https://github.com/jrsteensen/OpenHornet) — Open-source 1:1 scale F/A-18C cockpit simulator with full build docs (★422)
-- [SimFeedback-AC-Servo](https://github.com/SimFeedback/SimFeedback-AC-Servo) — Open-source AC servo motion simulator platform for flight sims (★323)
+- [OpenHornet](https://github.com/jrsteensen/OpenHornet) — Open-source 1:1 scale F/A-18C cockpit simulator with full build docs (★425)
+- [SimFeedback-AC-Servo](https://github.com/SimFeedback/SimFeedback-AC-Servo) — Open-source AC servo motion simulator platform for flight sims (★328)
 - [TouchDCS](https://github.com/charliefoxtwo/TouchDCS) — Bridges DCS-BIOS to TouchOSC and other OSC apps so a tablet becomes a clickable cockpit panel (★43)
-- [WCtrlDcsBiosBridge](https://github.com/landre-cerp/WCtrlDcsBiosBridge) — Bridges WINCTRL (ex-WINWING) CDUs and front panels to DCS through DCS-BIOS (★32)
+- [WCtrlDcsBiosBridge](https://github.com/landre-cerp/WCtrlDcsBiosBridge) — Bridges WINCTRL (ex-WINWING) CDUs and front panels to DCS through DCS-BIOS (★36)
 
 ### Kneeboard & Overlays
 
@@ -313,12 +313,12 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [DCS SAM Threat Guide](https://www.digitalcombatsimulator.com/en/files/3331424) — Kneeboard reference for SAM systems, ranges, and threat recognition
 - [DCS UFC X](https://github.com/pet333r/pw-dev_script) — Android touchscreen UFC/ICP panel app for data entry into DCS aircraft
 - [DCS-ExportScripts](https://github.com/s-d-a/DCS-ExportScripts) `[inactive]` — Export cockpit data to external displays, apps, and Ikarus gauges
-- [DCS Interface for StreamDeck](https://github.com/charlestytler/streamdeck-dcs-interface) — Stream Deck plugin with DCS cockpit event bindings and state-driven button images
+- [DCS Interface for StreamDeck](https://github.com/enertial/streamdeck-dcs-interface) — Stream Deck plugin with DCS cockpit event bindings and state-driven button images
 - [DCS:The Way](https://github.com/aronCiucu/DCSTheWay) `[inactive]` — Companion app that pushes F10-map markpoints into the aircraft as steerpoints
 - [Digital Kneeboard Simulator](https://www.digitalkneeboardsimulator.com/) — Web app for flight plans, loadouts, comm cards, and kneeboard export
 - [GV5Js Datacard Generator](https://forum.dcs.world/topic/261081-gv5js-datacard-generator) — Generates printable mission datacards as DCS kneeboard pages
 - [Kneeboard Builder](https://dcskneeboardbuilder.com/) — Converts PDFs to DCS kneeboard images; per-aircraft profile management
-- [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★354)
+- [OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) — VR and 2D kneeboard overlay; graphics-tablet annotation, PDF nav, DCS radio log, HOTAS bindings (★358)
 - [Shark Planner](https://github.com/okopanja/SharkPlanner) — Companion app that enters waypoints into the Ka-50 ABRIS/PVI-800 and other nav systems
 - [Simtools.app](https://www.simtools.app) — Web app to build and download custom aircraft checklists and kneeboards
 - [SlipHavoc DCS-Kneeboards](https://github.com/SlipHavoc/DCS-Kneeboards) — Pre-made kneeboard set covering most popular modules
@@ -327,14 +327,14 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 - [DCS VR Optimization Guide](https://www.gamersbynight.com/dcs-settings-vr/) — Step-by-step for OpenXR, MT mode, and VR performance tuning in DCS 2.8+
 - [HTCC — Hand Tracking Cockpit Clicking](https://github.com/fredemmott/HTCC) — Hand-tracking cockpit interaction for VR flight simulators (★74)
-- [fholger/vrperfkit](https://github.com/fholger/vrperfkit) `[inactive]` — FSR/NIS/CAS upscaling and foveated rendering for SteamVR/OpenVR (★1462)
+- [fholger/vrperfkit](https://github.com/fholger/vrperfkit) `[inactive]` — FSR/NIS/CAS upscaling and foveated rendering for SteamVR/OpenVR (★1463)
 - [mbucchia/OpenXR-Toolkit](https://github.com/mbucchia/OpenXR-Toolkit) `[inactive]` — FSR/NIS upscaling and foveated rendering for OpenXR; EOL, last release Apr 2023, author advises against installing
-- [mbucchia/Quad-Views-Foveated](https://github.com/mbucchia/Quad-Views-Foveated) `[inactive]` — OpenXR foveated rendering layer for Pimax Crystal, Quest Pro, and other eye-tracked headsets (★211)
+- [mbucchia/Quad-Views-Foveated](https://github.com/mbucchia/Quad-Views-Foveated) `[inactive]` — OpenXR foveated rendering layer for Pimax Crystal, Quest Pro, and other eye-tracked headsets (★215)
 - [OpenKneeboard](https://openkneeboard.com/) — See Kneeboard & Overlays; essential in-headset kneeboard overlay with tablet-pen support
-- [OpenXR API Layers GUI](https://github.com/fredemmott/OpenXR-API-Layers-GUI) — View, enable, disable and reorder OpenXR API layers; flags broken or conflicting ones (★84)
+- [OpenXR API Layers GUI](https://github.com/fredemmott/OpenXR-API-Layers-GUI) — View, enable, disable and reorder OpenXR API layers; flags broken or conflicting ones (★85)
 - [OpenXR Toolkit Tuning Guide](https://forum.dcs.world/topic/296983-openxr-toolkit-tuning-guide-updated-210223/) — DCS-specific OpenXR Toolkit setup guide for `--force_OpenXR` + MT mode
 - [Reshade VREM2](https://github.com/lefufu/DCS-world-reshade-VREM2) — DCS sharpening and visual enhancement Reshade addon; integrity-check safe
-- [VectorXR](https://github.com/DienerTech/vectorxr) — OpenXR layer with stereo depth, head-pivot and quad-views foveated rendering, plus per-app profiles (★49)
+- [VectorXR](https://github.com/DienerTech/vectorxr) — OpenXR layer with stereo depth, head-pivot and quad-views foveated rendering, plus per-app profiles (★51)
 - [VR4DCS](https://vr4dcs.com/) — VR optimization reference: OS settings, SteamVR, reprojection, per-headset guides
 - [VRLowdown — DCS on Meta Quest](https://vrlowdown.com/dcs-world-quest-2/) — DCS setup guide for Meta Quest (Air Link, Virtual Desktop, optimizations)
 
@@ -349,20 +349,20 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 - [DelanClip](https://delanclip.com/) `[paid]` — Affordable IR LED head-tracking clip; works with OpenTrack and TrackIR software
 - [ED User Files — Device Profiles](https://www.digitalcombatsimulator.com/en/files/filter/type-is-profile/apply/) — Official repository of 700+ community HOTAS and controller profiles, filterable by aircraft
 - [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR) — DIY open-source eye-tracking for VR headsets; ESP32 firmware + PC software
-- [FOXTracker](https://github.com/xuhao1/FOXTracker) `[inactive]` — Facial head pose tracker for gaming; alternative to TrackIR and AITrack (★490)
-- [HidHide](https://github.com/nefarius/HidHide) — Windows device firewall hiding HID devices from games; stops DCS seeing duplicate or virtual controllers (★1516)
+- [FOXTracker](https://github.com/xuhao1/FOXTracker) `[inactive]` — Facial head pose tracker for gaming; alternative to TrackIR and AITrack (★488)
+- [HidHide](https://github.com/nefarius/HidHide) — Windows device firewall hiding HID devices from games; stops DCS seeing duplicate or virtual controllers (★1535)
 - [Hoggit Peripherals Guide](https://wiki.hoggitworld.com/view/Peripherals_Guide) — HOTAS, rudder pedals, head tracking, and VR setup for DCS
 - [Joystick Diagrams](https://joystick-diagrams.com/) — Generates printable layout diagrams from your DCS bindings
-- [Joystick Gremlin](https://github.com/WhiteMagic/JoystickGremlin) — vJoy-based HOTAS remapper: modes, response curves, macros, device merging, Python plugins (★443)
+- [Joystick Gremlin](https://github.com/WhiteMagic/JoystickGremlin) — vJoy-based HOTAS remapper: modes, response curves, macros, device merging, Python plugins (★450)
 - [LookPilot](https://lookpilot.app/) `[paid]` — Webcam 6DoF head and eye tracking with TrackIR emulation; Windows and Linux, 14-day trial
-- [OpenTrack](https://github.com/opentrack/opentrack) — Free head-tracking software; supports FaceTrackNoIR, Aruco, IR clip, FreeTrack output (★5098)
+- [OpenTrack](https://github.com/opentrack/opentrack) — Free head-tracking software; supports FaceTrackNoIR, Aruco, IR clip, FreeTrack output (★5143)
 - [RS Mapper](https://forum.dcs.world/topic/175248-rs-mapper-release) `[inactive]` — Maps advanced HOTAS modes and shift states that DCS does not expose natively
 - [SimShaker for Aviators](https://simshaker-for-aviators.github.io/) — Drives bass shakers and haptic seats from DCS telemetry: gear, stall, gun, AoA, touchdown
-- [VAICOM Community Edition](https://github.com/Penecruz/VAICOM-Community) — Free continuation of VAICOM PRO: voice control of comms, ATC, AWACS, wingmen and JTAC (★222)
+- [VAICOM Community Edition](https://github.com/Penecruz/VAICOM-Community) — Free continuation of VAICOM PRO: voice control of comms, ATC, AWACS, wingmen and JTAC (★224)
 - [VIRPIL Controls](https://virpil-controls.eu/) `[paid]` — Modular HOTAS and collective controllers widely used in the DCS community
 - [VKB Sim](https://vkbcontrollers.com/) `[paid]` — HOTAS sticks (Gunfighter, Gladiator) with precision sensors
 - [VoiceAttack](https://voiceattack.com/) `[paid]` — Voice-command engine driving DCS radio menus, cockpit switches and macros; free tier capped at 20 commands
-- [VPforce TelemFFB](https://github.com/walmis/VPforce-TelemFFB) — Drives force-feedback sticks from DCS telemetry: engine rumble, gunfire, ETL shake, dynamic springs (★82)
+- [VPforce TelemFFB](https://github.com/walmis/VPforce-TelemFFB) — Drives force-feedback sticks from DCS telemetry: engine rumble, gunfire, ETL shake, dynamic springs (★83)
 - [WINCTRL (ex-Winwing)](https://winctrl.com/) `[paid]` — Module-specific panel replicas: F/A-18C, F-16C CDU, AH-64D EUFD; rebranded from WINWING in 2026
 
 ---
@@ -373,7 +373,7 @@ DCS World ships with two permanently free aircraft and one permanently free terr
 
 - [Better Mod.Manager](https://github.com/FreeProject089/BetterModsManager) — DCS mod manager with profiles, conflict detection and OvGME library import (★17)
 - [DCS Updater / Launcher GUI](https://forum.dcs.world/topic/134493-the-dcs-updater-launcher-gui-utility-version-20-2023/) — Front end for the DCS updater: multiple installs, branches, repair, clean, launch profiles
-- [Open Mod Manager](https://github.com/sedenion/OpenModMan) — Open-source generic mod manager: install, toggle, and back up mods safely
+- [Open Mod Manager](https://github.com/iquercorb/OpenModMan) — Open-source generic mod manager: install, toggle, and back up mods safely
 
 ### Skins & Liveries
 
@@ -404,7 +404,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 - [C-130J Super Hercules (Anubis)](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) `[inactive]` — Free flyable Hercules: clickable cockpit, custom flight model, ramp, 4 crew seats
 - [Community J-10A](https://github.com/whisky-actual/Community-J-10) — Free community J-10A with clickable cockpit and custom avionics; by the Community Gripen author (★40)
-- [Community JAS-39C Gripen](https://github.com/whisky-actual/Community-JAS-39-C) — Free community Gripen mod with clickable cockpit and custom avionics; among the most-flown mods (★239)
+- [Community JAS-39C Gripen](https://github.com/whisky-actual/Community-JAS-39-C) — Free community Gripen mod with clickable cockpit and custom avionics; among the most-flown mods (★240)
 - [ED Forums — Flyable/Drivable Mods](https://forum.dcs.world/forum/1155-flyabledrivable-mods-for-dcs-world/) — Official forum section where community flyable aircraft mods are released and supported
 - [F-15C Cockpit Overhaul](https://forum.dcs.world/topic/316347-f-15c-cockpit-overhaul-hotfix-23022024) — Retextured F-15C cockpit with fixed instrument illumination
 - [Flaming Cliffs: Clickable Cockpits Continued](https://www.digitalcombatsimulator.com/en/files/3347588/) — Basic clickable cockpits for all Flaming Cliffs and FC24 aircraft; passes integrity check
@@ -424,7 +424,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 - [Markindel's USS Iowa](https://forum.dcs.world/topic/277762-markindels-uss-iowa-late-war-vietnamkorea) — AI USS Iowa-class battleship in late-war Vietnam/Korea fit
 - [Ropucha-Class Landing Ship](https://forum.dcs.world/topic/199842-early-access-ropucha-class-soviet-landing-ship) `[WIP]` — AI Ropucha-class Soviet landing ship
 - [SAM Sites Asset Pack](https://forum.dcs.world/topic/275571-sam-sites-asset-pack-a-3d-assets-mod-to-populate-you-sam-sites-farp-and-other-bases) — IC-compliant 3D assets to populate SAM sites, FARPs, and bases
-- [TeTeT's Vietnam War Vessels](https://github.com/tspindler-cms/tetet-vwv) — Vietnam-era naval and air assets: Essex and Sumner classes, USS New Jersey, PBR, F-8, MiG-17F (★16)
+- [TeTeT's Vietnam War Vessels](https://github.com/tspindler-cms/tetet-vwv) — Vietnam-era naval and air assets: Essex and Sumner classes, USS New Jersey, PBR, F-8, MiG-17F (★18)
 - [WWII Axis Naval Assets](https://forum.dcs.world/topic/259934-wwii-axis-naval-assets) — AI WWII Axis naval vessels (Kriegsmarine)
 - [WWII Pacific Allied Assets](https://forum.dcs.world/topic/263743-wwii-pacific-allied-assets) — AI WWII Pacific Allied ships and assets
 
