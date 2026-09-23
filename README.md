@@ -471,6 +471,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 ### Communities
 
+- [AMVI](https://www.amvi.it) — Italian military flight simulation community for DCS World, conducting dozens of international operations each year, with realistic training, combat missions, and squadron activities
 - [Bullseye Francophone](https://bullseye-francophone.fr/) — French-speaking DCS community: co-op flights, BFM/BVR tournaments, dedicated server
 - [Check-Six Forums](https://www.checksix-forums.com/) — Longstanding French sim forum with an active DCS section
 - [Check-Six.fr](https://www.checksix-fr.com/category/dcs-world/) — French DCS news: module tests, guides, community events
