@@ -67,7 +67,7 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 DCS World ships with two permanently free aircraft and two free terrains, Caucasus and Marianas. Most paid modules also offer a 14-day free trial via the Module Manager.
 
 - [A-29B Super Tucano (Community)](https://github.com/luizrenault/a-29b-community) — Free standalone community module with EFM, clickable cockpit, HUD/CMFD, FLIR and CCIP/CCRP (★237)
-- [A-4E-C Skyhawk](https://github.com/Community-A-4E/community-a4e-c) — Community-built carrier-capable Skyhawk: clickable cockpit, custom flight model, air-to-ground radar; open source
+- [A-4E-C Skyhawk](https://github.com/Community-A-4E/community-a4e-c) `[inactive]` — Community-built carrier-capable Skyhawk: clickable cockpit, custom flight model, air-to-ground radar; open source
 - [DCS: Marianas Map](https://www.digitalcombatsimulator.com/en/shop/terrains/marianas_terrain/) — Free modern terrain alongside the base-game Caucasus: Guam, Rota, Tinian, Saipan and Andersen AFB; also free on Steam
 - [Su-25T Frogfoot](https://www.digitalcombatsimulator.com/en/downloads/world/) — Free ground-attack aircraft included with the base game; good first module for learning weapons employment
 - [TF-51D Mustang](https://www.digitalcombatsimulator.com/en/downloads/world/) — Free unarmed trainer based on the P-51D; recommended for learning basic flight and aerobatics
@@ -131,7 +131,6 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 
 ### Dynamic Campaigns
 
-- [DCC — Digital Crew Chief](https://github.com/kilcekru/dcc) — Zero-config dynamic campaign app: auto-generated CAP/CAS/strike sorties, persistence, multiplayer (★101)
 - [DCE — Dynamic Campaign Engine](https://github.com/bbirchnz/dce-campaign-builder) — Community builder for the original MBot/Minsky persistent turn-by-turn campaign engine
 - [DCT — Dynamic Campaign Tools](https://github.com/jtoppins/dct) `[inactive]` — Lua framework for persistent server-side campaigns; scenarios built from templates, no external program needed
 - [DCT Documentation](https://jtoppins.github.io/dct/) — Full docs and quick-start for DCT
@@ -198,7 +197,7 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 - [DCS OVERLOAD Caucasus](https://github.com/srogers909/DCS_OVERLOAD_Caucasus) `[inactive]` — Air-to-air training with respawning aggressors, situational awareness focus
 - [Gunthrek Academy F/A-18C (Bagel Fixpack)](https://files.digitalcombatsimulator.com/en/files/3344992/) — Free four-block Hornet school: nav, air-to-ground, air-to-air, carrier ops; 100+ community fixes
 - [Hoggit Training Map](https://wiki.hoggitworld.com/view/Hoggit_Training_Map) — 24/7 community training server on Caucasus with airfields, SAM threats, and range targets
-- [The Universal Mission](https://github.com/akaAgar/the-universal-mission-for-dcs-world) — Dynamic SP/PvE mission: procedural tasking, 325+ voiced radio calls, career mode, 6 theaters (★85)
+- [The Universal Mission](https://github.com/akaAgar/the-universal-mission-for-dcs-world) `[inactive]` — Dynamic SP/PvE mission: procedural tasking, 325+ voiced radio calls, career mode, 6 theaters (★85)
 - [Through the Inferno](https://www.throughtheinferno.com/) — Dynamic action and training missions with randomized spawns, objectives, and JTAC, for SP and co-op on many maps
 
 ### Third-Party Campaigns
@@ -391,7 +390,7 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 
 ### Skins & Liveries
 
-- [AMD Compressonator](https://github.com/GPUOpen-Tools/Compressonator) `[inactive]` — Standalone DDS conversion and compression toolbox
+- [AMD Compressonator](https://github.com/GPUOpen-Tools/Compressonator) — Standalone DDS conversion and compression toolbox
 - [ED Livery Search](https://files.digitalcombatsimulator.com/en/files/filter/type-is-livery/apply/) — Community livery search by aircraft on the official site
 - [Hoggit Wiki — Liveries](https://wiki.hoggitworld.com/view/Liveries) — Livery folder names per aircraft and how to unlock country-restricted liveries
 - [Livery Link](https://github.com/Camble/LiveryLink) — Graphical livery manager: install from ED User Files, Google Drive or disk; imports existing liveries (★15)
@@ -416,7 +415,7 @@ Community content mods (flyable aircraft, AI units, weapons, sounds). For mods w
 
 - [AH-6J Little Bird (Helicopter EFM Demo)](https://github.com/CrudeCoder1/Helicopter-EFM-Demo) `[WIP]` — Free flyable AH-6J Little Bird built as a helicopter EFM demo; ARC-182 radio, armament panel, radar altimeter
 - [C-130J Super Hercules (Anubis)](https://forum.dcs.world/topic/252075-dcs-super-hercules-mod-by-anubis/) `[inactive]` — Free flyable Hercules: clickable cockpit, custom flight model, ramp, 4 crew seats
-- [Community J-10A](https://github.com/whisky-actual/Community-J-10) — Free community J-10A with clickable cockpit and custom avionics; by the Community Gripen author (★40)
+- [Community J-10A](https://github.com/whisky-actual/Community-J-10) `[inactive]` — Free community J-10A with clickable cockpit and custom avionics; by the Community Gripen author (★40)
 - [Community JAS-39C Gripen](https://github.com/whisky-actual/Community-JAS-39-C) — Free community Gripen mod with clickable cockpit and custom avionics; among the most-flown mods (★240)
 - [ED Forums — Flyable/Drivable Mods](https://forum.dcs.world/forum/1155-flyabledrivable-mods-for-dcs-world/) — Official forum section where community flyable aircraft mods are released and supported
 - [F-15C Cockpit Overhaul](https://forum.dcs.world/topic/316347-f-15c-cockpit-overhaul-hotfix-23022024) `[inactive]` — Retextured F-15C cockpit with fixed instrument illumination
