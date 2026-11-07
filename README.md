@@ -58,7 +58,7 @@ Badges: `[inactive]` = no commit/update for 12+ months · `[paid]` · `[WIP]`
 - [DCS World — Official Site](https://www.digitalcombatsimulator.com/en/) — Start here: downloads, news, module store, and user files
 - [DCS World Steam Edition](https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/) — Free on Steam; Caucasus map and two aircraft included
 - [ED Forums](https://forum.dcs.world/) — Official forum; module bug reports, changelogs, and technical discussions
-- [Eagle Dynamics Discord](https://discord.gg/eagledynamics) — Official ED Discord for announcements and community chat
+- [Eagle s Discord](https://discord.gg/eagles) — Official ED Discord for announcements and community chat
 - [Hoggit Discord](https://discord.gg/hoggit) — ~35k members; module help channels and weekly open multiplayer sessions
 - [Hoggit DCS World Wiki](https://wiki.hoggitworld.com/view/Hoggit_DCS_World_Wiki) — The community wiki: aircraft systems, scripting, peripherals, multiplayer setup
 
@@ -85,7 +85,7 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 - [DCS World — E-Shop](https://www.digitalcombatsimulator.com/en/shop/) `[paid]` — Modules, terrains, campaigns, and bundles from ED
 - [DCS World — Texture Templates](https://www.digitalcombatsimulator.com/en/downloads/texture_templates/) — Official PSD/TGA paint kits for most aircraft
 - [DCS World — User Files](https://files.digitalcombatsimulator.com/en/files/) — Community missions, liveries, mods, kneeboards, campaigns
-- [Eagle Dynamics YouTube](https://www.youtube.com/@EagleDynamicsTV) — Trailers, dev updates, and tutorials from ED
+- [Eagle s YouTube](https://www.youtube.com/@EaglesTV) — Trailers, dev updates, and tutorials from ED
 
 ---
 
@@ -114,7 +114,7 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 - [MOOSE](https://github.com/FlightControl-Master/MOOSE) — Massive OOP Lua framework: AI dispatchers, ATIS, MANTIS IADS, CTLD, CSAR, AirBoss… (★350)
 - [MOOSE Documentation](https://flightcontrol-master.github.io/MOOSE/) — Official docs hub: beginner tutorials, advanced guides, and links to the auto-generated class reference
 - [pydcs](https://github.com/pydcs/dcs) — Generate and edit `.miz` files from Python; powers DCS Liberation and Retribution (★189)
-- [VEAF Mission Creation Tools](https://github.com/VEAF/VEAF-Mission-Creation-Tools) — Lua + Python for git-versioned DCS missions with dynamic spawning, ATIS, and radio menus (★25)
+- [VEAF Mission Creation Tools](https://github.com/VEAF/VEAF-Mission-Creation-Tools) — Lua + Python for git-versioned DCS missions with  spawning, ATIS, and radio menus (★25)
 - [VEAF Documentation](https://veaf.github.io/documentation/) — VEAF scripting reference
 
 ### Mission Utilities
@@ -131,6 +131,7 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 
 ### Dynamic Campaigns
 
+- [DCC — Digital Crew Chief](https://github.com/rhyver/dcc) — Zero-config dynamic campaign app: auto-generated CAP/CAS/strike sorties, persistence, multiplayer
 - [DCE — Dynamic Campaign Engine](https://github.com/bbirchnz/dce-campaign-builder) — Community builder for the original MBot/Minsky persistent turn-by-turn campaign engine
 - [DCT — Dynamic Campaign Tools](https://github.com/jtoppins/dct) `[inactive]` — Lua framework for persistent server-side campaigns; scenarios built from templates, no external program needed
 - [DCT Documentation](https://jtoppins.github.io/dct/) — Full docs and quick-start for DCT
