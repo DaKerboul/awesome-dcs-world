@@ -7,7 +7,7 @@ Thanks for wanting to add something. Keep it short, keep it useful.
 ## Entry format
 
 ```
-- [Name](https://url.com) — Short description of what it does.
+- [Name](https://url.com) — Short description of what it does
 ```
 
 - The separator is an em dash `—` (not a regular hyphen `-`)
@@ -27,7 +27,7 @@ Add a badge **after the link**, before the `—`, when relevant:
 | `[paid]` | Paid or freemium with essential features behind a paywall |
 | `[WIP]` | Actively in development, unstable or incomplete |
 
-Example: `- [MyMod](https://url.com) [WIP] — A mod for F-16s, still in development.`
+Example: `- [MyMod](https://url.com) [WIP] — A mod for F-16s, still in development`
 
 ---
 
