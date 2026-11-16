@@ -273,7 +273,6 @@ DCS World ships with two permanently free aircraft and two free terrains, Caucas
 ### Persistent Servers
 
 - [104th Phoenix](https://104thphoenix.com/) — International virtual squadron founded in 2006; runs donation-funded public PvP servers with integrity-check rules
-- [4YA Servers](https://discord.com/invite/4ya) — Multi-map PvE/PvP (Caucasus, WWII Normandy, others); 24/7
 - [Blue Flag](https://wiki.buddyspike.net/) — PvP dynamic campaign across multiple eras (Cold War, 80s, Modern); run by BuddySpike
 - [Contention — Strike Package Studios](https://live.strikepackagestudios.com/home) — Persistent dynamic PvP campaign servers with live web maps; modern and Cold War rulesets
 - [Heatblur Cold War Server](https://discord.com/invite/heatblur-simulations) — Ex-Enigma's Cold War PvP/PvE, run by Heatblur since 2024; Caucasus hex-territory campaign; [Enigma V1 source](https://github.com/Enigma1989YT/Enigma-Cold-War-V1-Public)
